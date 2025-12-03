@@ -1,6 +1,6 @@
 # Hi there 👋 我是 yijiangj2025
 
-程序员 / 爱折腾 / 正在把 GitHub 当家玩
+有ai才是程序员 / 渴望探索 / 正在把 GitHub 当家玩
 
 目前在学：
 - Git & GitHub（已经入门啦！）
